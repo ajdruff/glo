@@ -1,0 +1,24 @@
+{
+  "name": "glo",
+  "version": "1.0.0",
+  "description": "Local ghost client for administering dev and production environments",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajdruff/glo.git"
+  },
+  "keywords": [
+    "ghost",
+    "cms",
+    "cli"
+  ],
+  "author": "Andrew Druffner <andrew@nomstock.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajdruff/glo/issues"
+  },
+  "homepage": "https://github.com/ajdruff/glo#readme"
+}
